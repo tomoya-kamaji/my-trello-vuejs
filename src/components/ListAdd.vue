@@ -36,6 +36,7 @@ export default {
       }
       return classList
     },
+    
     titleExists(){
       return this.title.length > 0
     }  
